@@ -1,0 +1,13 @@
+asyncpg
+fastapi
+requests
+uvicorn
+black
+flake8
+isort
+httpx
+pydantic
+sqlalchemy
+psycopg2-binary
+pydantic_settings
+pytest
